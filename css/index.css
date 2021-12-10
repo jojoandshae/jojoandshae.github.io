@@ -1,0 +1,36 @@
+body {
+    font-family: 'Karla', sans-serif;
+font-family: 'Shadows Into Light', cursive;
+font-size: larger;
+color: #773344;
+background-color: #FAF3F0;
+}
+main {
+    justify-content: center;
+    padding-top: 1em;
+    margin-left: 30%;
+    padding-bottom: 3em;
+}
+article {
+    text-align: center;
+    width: 600px;
+    border: 4px dotted #9CA0BF;
+}
+section {
+    padding: 2em;
+}
+nav {
+    background-color: #D44D5C;
+    padding: 1em;
+    border-radius: 25px;
+    text-align: center;
+}
+footer {
+    background-color: #D44D5C;
+    padding-top: 2em;
+    border-radius: 25px;
+    text-align: center;
+}
+img {
+    width: 50px;
+}
